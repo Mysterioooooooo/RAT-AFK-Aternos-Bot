@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kalesh24x7.aternos.me",
+    "ip": "kalesh24x7.aternos.me:38182",
     "port": 38182,
     "version": "",
     "try-creative": false
